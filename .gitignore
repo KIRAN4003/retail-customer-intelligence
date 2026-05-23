@@ -1,9 +1,10 @@
 # Raw data - too large
-data/raw/
+retail-intelligence
+/raw/
 
 # Large cleaned files
-data/cleaned/cleaned_retail.csv
-data/cleaned/retail.db
+retail-intelligence/cleaned/cleaned_retail.csv
+retail-intelligence/cleaned/retail.db
 
 # Python cache
 __pycache__/
@@ -13,11 +14,11 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db# Raw data - too large
-data/raw/
+retail-intelligence/raw/
 
 # Large cleaned files
-data/cleaned/cleaned_retail.csv
-data/cleaned/*.db
+retail-intelligence/cleaned/cleaned_retail.csv
+retail-intelligence/cleaned/*.db
 
 # Python cache
 __pycache__/
@@ -30,3 +31,5 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+# Ignore raw data folder
+retail-intelligence/raw/
