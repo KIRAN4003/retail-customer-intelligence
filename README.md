@@ -7,7 +7,7 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/dashboard_screenshot1.png)
 
 > 📥 [Download Dashboard PDF](https://github.com/KIRAN4003/retail-customer-intelligence/raw/main/dashboard/retail_dashboard.pdf)
 ---
@@ -243,7 +243,7 @@ Built an interactive Power BI dashboard with:
 - High Risk Customers Churn Table
 - 3 Slicers — Year, Country, Segment
 
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/dashboard_screenshot1.png)
 
 >📥 [Download Dashboard PDF](https://github.com/KIRAN4003/retail-customer-intelligence/raw/main/dashboard/retail_dashboard.pdf)
 
