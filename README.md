@@ -245,7 +245,7 @@ Built an interactive Power BI dashboard with:
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
-> 📥 [Download Full Dashboard PDF](dashboard/retail_dashboard.pdf)
+>📥 [Download Dashboard PDF](https://github.com/KIRAN4003/retail-customer-intelligence/raw/main/dashboard/retail_dashboard.pdf)
 
 ---
 
