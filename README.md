@@ -9,8 +9,7 @@
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
-> 📥 [Download Power BI Dashboard PDF](dashboard/retail_dashboard.pdf)
-
+> 📥 [Download Dashboard PDF](https://github.com/KIRAN4003/retail-customer-intelligence/raw/main/dashboard/retail_dashboard.pdf)
 ---
 
 ## 🎯 Business Problem
