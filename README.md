@@ -9,8 +9,7 @@
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
-> 📥 [Download Power BI Dashboard PDF](dashboard/retail_dashboard.pdf)
-
+> 📥 [Download Dashboard PDF](https://github.com/KIRAN4003/retail-customer-intelligence/raw/main/dashboard/retail_dashboard.pdf)
 ---
 
 ## 🎯 Business Problem
@@ -100,19 +99,19 @@ Answered 8 business questions with charts:
 
 | Monthly Revenue Trend | Revenue by Year |
 |---|---|
-| ![](data/cleaned/01_monthly_revenue.png) | ![](data/cleaned/02_yearly_revenue.png) |
+| ![](cleaned/01_monthly_revenue.png) | ![](cleaned/02_yearly_revenue.png) |
 
 | Top Countries | Top Products |
 |---|---|
-| ![](data/cleaned/03_top_countries.png) | ![](data/cleaned/04_top_products.png) |
+| ![](cleaned/03_top_countries.png) | ![](cleaned/04_top_products.png) |
 
 | Revenue by Day | Revenue by Hour |
 |---|---|
-| ![](data/cleaned/05_day_revenue.png) | ![](data/cleaned/06_hour_revenue.png) |
+| ![](cleaned/05_day_revenue.png) | ![](cleaned/06_hour_revenue.png) |
 
 | Top Customers | Quarterly Revenue |
 |---|---|
-| ![](data/cleaned/07_top_customers.png) | ![](data/cleaned/08_quarter_revenue.png) |
+| ![](cleaned/07_top_customers.png) | ![](cleaned/08_quarter_revenue.png) |
 
 ---
 
@@ -133,10 +132,10 @@ Loaded cleaned data into SQLite and wrote 10 business queries:
 - Monthly active customer tracking
 
 #### SQL Heatmap — Day vs Hour
-![Heatmap](data/cleaned/09_heatmap.png)
+![Heatmap](cleaned/09_heatmap.png)
 
 #### Monthly Active Customers
-![Monthly Customers](data/cleaned/11_monthly_customers.png)
+![Monthly Customers](cleaned/11_monthly_customers.png)
 
 ---
 
@@ -164,7 +163,7 @@ Segmented 5,852 customers using RFM analysis:
 
 | Segment Distribution | Revenue by Segment |
 |---|---|
-| ![](data/cleaned/12_segments.png) | ![](data/cleaned/13_segment_revenue.png) |
+| ![](cleaned/12_segments.png) | ![](cleaned/13_segment_revenue.png) |
 
 ---
 
@@ -189,15 +188,15 @@ Segmented 5,852 customers using RFM analysis:
 
 | Churn Distribution | Model Comparison |
 |---|---|
-| ![](data/cleaned/14_churn_dist.png) | ![](data/cleaned/15_model_comparison.png) |
+| ![](cleaned/14_churn_dist.png) | ![](cleaned/15_model_comparison.png) |
 
 | Confusion Matrix | Feature Importance |
 |---|---|
-| ![](data/cleaned/16_confusion_matrix.png) | ![](data/cleaned/17_feature_importance.png) |
+| ![](cleaned/16_confusion_matrix.png) | ![](cleaned/17_feature_importance.png) |
 
 | ROC Curve |
 |---|
-| ![](data/cleaned/18_roc_curve.png) |
+| ![](cleaned/18_roc_curve.png) |
 
 ---
 
@@ -222,11 +221,11 @@ based on 25 months of historical data.
 
 | Historical Revenue | Forecast |
 |---|---|
-| ![](data/cleaned/19_historical_revenue.png) | ![](data/cleaned/20_forecast.png) |
+| ![](cleaned/19_historical_revenue.png) | ![](cleaned/20_forecast.png) |
 
 | Trend & Seasonality Components |
 |---|
-| ![](data/cleaned/21_components.png) |
+| ![](cleaned/21_components.png) |
 
 ---
 
@@ -246,7 +245,7 @@ Built an interactive Power BI dashboard with:
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
 
-> 📥 [Download Full Dashboard PDF](dashboard/retail_dashboard.pdf)
+>📥 [Download Dashboard PDF](https://github.com/KIRAN4003/retail-customer-intelligence/raw/main/dashboard/retail_dashboard.pdf)
 
 ---
 
